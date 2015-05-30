@@ -7,8 +7,7 @@
 
         // Set google drive folder location
         $dirname = 'https://www.googledrive.com/host/0B7fTCZWXVvWufmNXZmZGYVRyTHdRY0hhYzNxRV9MT0xXcEJsN04wVm5iM01JTkhYT1JFdk0/';
-        // $dirname = 'https://www.googledrive.com/host/0B7fTCZWXVvWuflZqSWRLbXR4bUxiS3ZQdFBLTE5HTVVkZ2w0eFlKSnVraENobUtQa1BQVlU/';
-
+      
         $imgLinks = array();
         $imgTitles = array();
 
